@@ -24,8 +24,7 @@
      truffle compile 
      truffle migrate --network development
 ```
-### after successfully deploying contract on ganache local blockchain, copy the deployed contract address
-    and paste it in contract.jsx file in  my-app>utils 
+### after successfully deploying contract on ganache local blockchain, copy the deployed contract address and paste it in contract.jsx file in  my-app>utils 
 ### go to my-app directory and start local server
 ```
      cd .. 
