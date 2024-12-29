@@ -1,5 +1,5 @@
 ﻿# project-603
-### Start with cloning this project in local system. /n
+### Start with cloning this project in local system.
 ### Pre-requisites (tese can be downloaded from google)
     1) Node.js
     2) Ganache 
