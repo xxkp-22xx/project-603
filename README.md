@@ -1,6 +1,6 @@
 ﻿# project-603
 ### Start with cloning this project in local system.
-### Pre-requisites (tese can be downloaded from google)
+### Pre-requisites (these can be downloaded from google)
     1) Node.js
     2) Ganache 
     3) npm
